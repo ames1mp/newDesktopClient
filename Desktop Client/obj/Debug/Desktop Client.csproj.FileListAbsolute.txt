@@ -1,0 +1,21 @@
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.exe.config
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.exe
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.pdb
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Connection.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Devices.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Messages.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\App.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client_MarkupCompile.cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client_MarkupCompile.lref
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Connection.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Devices.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Messages.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.g.resources
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop_Client.Properties.Resources.resources
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.exe
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.pdb
