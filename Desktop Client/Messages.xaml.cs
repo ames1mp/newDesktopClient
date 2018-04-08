@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Drawing;
 
 namespace Desktop_Client
 {
@@ -20,9 +21,26 @@ namespace Desktop_Client
     /// </summary>
     public partial class Messages : Page
     {
+        string testMessage = "";
+
         public Messages()
         {
+
             InitializeComponent();
+
+            
+
+        }
+
+        private void test_click(object sender, RoutedEventArgs e)
+        {
+            testMessage = MessageStore.getMessage();
+
+            Label message = new Label();
+            message.Content = testMessage;
+            message.Foreground = new SolidColorBrush(Colors.White);
+
+            messagePanel.Children.Add(message);
         }
     }
 }

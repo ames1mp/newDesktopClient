@@ -9,6 +9,13 @@
       Title="Messages">
 
     <Grid Background="#FF272822">
-        
+        <StackPanel Name="messagePanel">
+            <Label Content="Hello World" Foreground="#FFF5F3F3"></Label>
+            <Label Content="This is a test" Foreground="#FFFBF4F4"></Label>
+        </StackPanel>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="115,164,0,0" VerticalAlignment="Top" Width="75" Click="test_click"/>
+
+
+
     </Grid>
 </Page>

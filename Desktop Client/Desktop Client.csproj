@@ -76,6 +76,7 @@
     </ApplicationDefinition>
     <Compile Include="MessageStore.cs" />
     <Compile Include="Server.cs" />
+    <Compile Include="tempServercs.cs" />
     <Compile Include="ViewModels\ConnectionViewModel.cs" />
     <Page Include="Connection.xaml">
       <SubType>Designer</SubType>
