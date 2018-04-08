@@ -22,12 +22,14 @@ namespace Desktop_Client
     {
 
         ConnectionViewModel cvm;
+        tempServercs ts;
 
         public Connection()
         {
 
             cvm = new ConnectionViewModel();
             DataContext = cvm;
+            ts = new tempServercs();
             InitializeComponent();
         }
 
@@ -37,7 +39,7 @@ namespace Desktop_Client
             //cvm.ConnectionStatus = "THIS IS  A TEST";
             
             connectButton.IsEnabled = false;
-            Task.Factory.StartNew(() => { AsynchSocketListener.StartListening(); });
+            Task.Factory.StartNew(() => { ts.StartListening(); });
         }
     }
 }

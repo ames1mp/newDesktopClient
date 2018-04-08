@@ -17,7 +17,16 @@
             <Button x:Name="ConnectionButton" Content="Connection"  Width="75" BorderBrush="#FF272822" Foreground="#FFFBFAFA" FontWeight="Bold" MinWidth="100" Click="connectionButton_click" HorizontalAlignment="Right" Background="{x:Null}"/>
 
         </StackPanel>
-        <Label x:Name="conStatusBox" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="286,151,0,0" Foreground="#FFF5F2F2" Height="35" Width="64" FontWeight="Bold"/>
+        <Label x:Name="conStatusBox" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="92,152,0,0" Foreground="#FFF5F2F2" Height="35" Width="373" FontWeight="Bold" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.609"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
 
 
     </Grid>
