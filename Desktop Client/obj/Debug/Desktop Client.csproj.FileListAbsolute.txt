@@ -19,3 +19,12 @@ C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\D
 C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.CoreCompileInputs.cache
 C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.exe
 C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.pdb
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.dll.config
