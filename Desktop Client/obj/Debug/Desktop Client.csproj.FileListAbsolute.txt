@@ -1,24 +1,3 @@
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.exe.config
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.exe
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.pdb
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csprojResolveAssemblyReference.cache
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Connection.g.cs
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Devices.g.cs
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\MainWindow.g.cs
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Messages.g.cs
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\App.g.cs
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client_MarkupCompile.cache
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client_MarkupCompile.lref
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Connection.baml
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Devices.baml
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\MainWindow.baml
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Messages.baml
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.g.resources
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop_Client.Properties.Resources.resources
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.GenerateResource.Cache
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.CoreCompileInputs.cache
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.exe
-C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.pdb
 C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Desktop Client.csprojResolveAssemblyReference.cache
 C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Connection.g.cs
 C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Devices.g.cs
@@ -50,3 +29,46 @@ C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Desktop Client.c
 C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Desktop Client.csproj.CopyComplete
 C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Desktop Client.exe
 C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\Desktop Client.pdb
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.exe.config
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.exe
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Desktop Client.pdb
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\PropertyChanged.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\PropertyChanged.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.xml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Connection.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Controls\MessageListItemControl.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Controls\MessageListControl.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Devices.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\MainWindow.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Pages\MessageListPage.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\App.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client_MarkupCompile.cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client_MarkupCompile.lref
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\App.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Connection.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Controls\MessageListItemControl.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Controls\MessageListControl.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Devices.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\MainWindow.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Pages\MessageListPage.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Styles\Buttons.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Styles\Windows.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Styles\Text.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Styles\Colors.baml
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.g.resources
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop_Client.Properties.Resources.resources
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.GenerateResource.Cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.exe
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\Desktop Client.pdb

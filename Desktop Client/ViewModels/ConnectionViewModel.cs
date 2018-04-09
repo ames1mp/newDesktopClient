@@ -1,14 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
+using PropertyChanged;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Controls;
 using System.Runtime.CompilerServices;
 
 namespace Desktop_Client
 {
+
+    
+
     class ConnectionViewModel : INotifyPropertyChanged
     {
 
@@ -31,7 +30,7 @@ namespace Desktop_Client
             }
         }
 
-        public event PropertyChangedEventHandler PropertyChanged;
+        public event PropertyChangedEventHandler PropertyChanged; //= (sender, e) => { };
 
         protected void onPropertyChanged([CallerMemberName] String propertyName = null)
         {

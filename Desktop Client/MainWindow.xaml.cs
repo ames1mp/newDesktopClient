@@ -21,34 +21,36 @@ namespace Desktop_Client
     public partial class MainWindow : Window
     {
 
-        Messages messagePage;
+        MessageListPage messageListPage;
         Connection connectionPage;
         Devices devicesPage;
+        
 
         public Connection ConnectionPage { get => connectionPage; set => connectionPage = value; }
 
         public MainWindow()
         {
-            messagePage = new Messages();
+            messageListPage = new MessageListPage();
             connectionPage = new Connection();
             devicesPage = new Devices();
+            this.DataContext = new WindowViewModel(this);
             InitializeComponent();
         }
 
         private void messageButton_click(object sender, RoutedEventArgs e)
         {
-            Main.Content = messagePage;
+           // Main.Content = messageListPage;
         }
 
 
         private void connectionButton_click(object sender, RoutedEventArgs e)
         {
-            Main.Content = connectionPage;
+           // Main.Content = connectionPage;
         }
 
         private void devicesButton_click(object sender, RoutedEventArgs e)
         {
-            Main.Content = devicesPage;
+          //  Main.Content = devicesPage;
         }
     }
 }

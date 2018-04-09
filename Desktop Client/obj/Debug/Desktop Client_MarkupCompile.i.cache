@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Student\Desktop\DesktopClient\Desktop Client\obj\Debug\
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\obj\Debug\
 Desktop_Client
 none
 false
 DEBUG;TRACE
-C:\Users\Student\Desktop\DesktopClient\Desktop Client\App.xaml
-4367644314
+C:\Users\Mike\Desktop\newDesktopClient\Desktop Client\Desktop Client\App.xaml
+109411788
 
-16-1341093449
-19637705765
-Connection.xaml;Devices.xaml;MainWindow.xaml;Messages.xaml;
+32-207622868
+211358010611
+Connection.xaml;Controls\MessageListItemControl.xaml;Controls\MessageListControl.xaml;Devices.xaml;MainWindow.xaml;Pages\MessageListPage.xaml;Styles\Buttons.xaml;Styles\Windows.xaml;Styles\Text.xaml;Styles\Colors.xaml;
 
 True
 

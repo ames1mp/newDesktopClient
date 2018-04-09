@@ -21,7 +21,7 @@ namespace Desktop_Client
 
             string entry = "";
 
-            System.IO.File.AppendAllText(@"C:\Users\Student\Desktop\WriteLines.txt", message);
+            System.IO.File.AppendAllText(@"C:\Users\Mike\Desktop\WriteLines.txt", message);
         }
 
         public static string getMessage()
@@ -29,7 +29,7 @@ namespace Desktop_Client
             string line;
             string message = "This is not from file. ";
 
-            StreamReader file = new StreamReader(@"C:\Users\Student\Desktop\WriteLines.txt");
+            StreamReader file = new StreamReader(@"C:\Users\Mike\Desktop\WriteLines.txt");
             while ((line = file.ReadLine()) != null)
             {
                 //string message = ""; 
